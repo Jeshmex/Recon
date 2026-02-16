@@ -1,2 +1,2 @@
 # Network-Enumeration-Tool
-Currently having a lot of trouble searching and asking AI for what certain commands are used for nmap, want to make it easier for myself when performing network enumeration
+Currently having a lot of trouble remembering what certain commands are used for while using nmap, want to create a tool to make it easier for myself when performing network enumeration
