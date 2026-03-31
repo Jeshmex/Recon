@@ -1,2 +1,2 @@
-# Network-Enumeration-Tool
-Currently having a lot of trouble remembering what certain commands are used for while using nmap, want to create a tool to make it easier for myself when performing network enumeration
+# Recon-Tool
+I’m currently having difficulty remembering the purpose of certain Nmap commands, which has slowed down my workflow during network enumeration. To address this, I decided to build a tool that simplifies the process and makes it easier to use Nmap efficiently.
